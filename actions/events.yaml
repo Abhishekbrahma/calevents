@@ -1,0 +1,7 @@
+---
+name: events
+pack: calevents
+runner_type: "python-script"
+description: consume events api
+enabled: true
+entry_point: events.py
